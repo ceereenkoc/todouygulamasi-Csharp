@@ -1,0 +1,15 @@
+D:\Patika\C# 101\Deneme\todo\bin\Debug\net6.0\todo.exe
+D:\Patika\C# 101\Deneme\todo\bin\Debug\net6.0\todo.deps.json
+D:\Patika\C# 101\Deneme\todo\bin\Debug\net6.0\todo.runtimeconfig.json
+D:\Patika\C# 101\Deneme\todo\bin\Debug\net6.0\todo.dll
+D:\Patika\C# 101\Deneme\todo\bin\Debug\net6.0\todo.pdb
+D:\Patika\C# 101\Deneme\todo\obj\Debug\net6.0\todo.csproj.AssemblyReference.cache
+D:\Patika\C# 101\Deneme\todo\obj\Debug\net6.0\todo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Patika\C# 101\Deneme\todo\obj\Debug\net6.0\todo.AssemblyInfoInputs.cache
+D:\Patika\C# 101\Deneme\todo\obj\Debug\net6.0\todo.AssemblyInfo.cs
+D:\Patika\C# 101\Deneme\todo\obj\Debug\net6.0\todo.csproj.CoreCompileInputs.cache
+D:\Patika\C# 101\Deneme\todo\obj\Debug\net6.0\todo.dll
+D:\Patika\C# 101\Deneme\todo\obj\Debug\net6.0\refint\todo.dll
+D:\Patika\C# 101\Deneme\todo\obj\Debug\net6.0\todo.pdb
+D:\Patika\C# 101\Deneme\todo\obj\Debug\net6.0\todo.genruntimeconfig.cache
+D:\Patika\C# 101\Deneme\todo\obj\Debug\net6.0\ref\todo.dll
